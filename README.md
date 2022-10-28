@@ -6,7 +6,9 @@ profitable for the bank. Therefore, getting more customers to opt for a personal
 makes the equation more profitable. The task at hand is to create customer segments 
 to maximize the effectiveness of their personal loan campaign.
 
-  ALGORITHM
+  algorithm
+  
+  
   KMeans Clustering Algorithm
   
   
