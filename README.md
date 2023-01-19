@@ -12,7 +12,7 @@ to maximize the effectiveness of their personal loan campaign.
   KMeans Clustering Algorithm
   
   
-     Terems to Remember
+     Terms to Remember
      
      Kmeans
      Scaling
